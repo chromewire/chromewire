@@ -1,5 +1,7 @@
 # hiii 
 
+<img src = "https://github.com/chromewire/chromewire/blob/main/jjba_plushies.jpg?raw=true" alt = "plushie" />
+
 <img src = "https://komarev.com/ghpvc/?username=chromewire" alt = "chromewire" />
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chromewire&langs_count=20&theme=merko&layout=donut-vertical" alt = "languages" />
